@@ -22,9 +22,9 @@ This project analyzes the Adventure Works Manufacturing dataset using Microsoft 
 - Data Analysis
 - Business Intelligence
 
--  📊 Project Analysis
+-  ## 📊 Project Analysis
 
--  📈 Dashboard Preview
+## 📈 Dashboard Preview
 
 ![Adventure Works Sales Performance Dashboard](Screenshot%202026-09-14%20131749.png)
 
