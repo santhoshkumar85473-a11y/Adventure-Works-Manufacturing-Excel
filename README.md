@@ -27,6 +27,17 @@ This project analyzes the Adventure Works Manufacturing dataset using Microsoft 
 ## 📈 Dashboard Preview
 
 ![Adventure Works Sales Performance Dashboard](Screenshot%202026-09-14%20131749.png)
+## 💡 Key Insights
+
+- Total Sales: **29.36M**
+- Total Profit: **12.08M**
+- Production Cost: **17.28M**
+- Total Orders: **27,660**
+- Profit Margin: **41.15%**
+- 2013 recorded the highest annual sales in the dashboard.
+- Australia recorded the highest regional sales shown.
+- Q4 contributed the largest quarterly sales share.
+- Monthly sales showed fluctuations throughout the year.
 
 📊 Project Contents
 
